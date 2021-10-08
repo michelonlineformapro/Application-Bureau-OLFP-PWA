@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "OLFP DESKTOP.",
+  "display": "fullscreen",
+  "icons": [
+    {
+        "src": "icon/fox-icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }
+  ],
+  "name": "Onlineformapro Bureau",
+  "short_name": "PWA",
+  "start_url": "/olfp_desktop/index.php"
+}
